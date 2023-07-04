@@ -1,0 +1,134 @@
+p{
+    color:darkgreen;
+	text-align: center;
+}
+
+.topbar_container{
+    padding:5px;
+	border-radius: 30px;
+}
+
+
+.topbar_container ul{
+	list-style:none;
+	text-align: right;
+}
+
+.topbar_container li
+{
+	display: inline-block;
+	
+}
+
+.topbar_container a
+{
+	text-decoration: none;
+	width: 100px;
+	display: block;
+	color:black;
+	padding: 25px 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: ariel;
+	text-align: center;
+}
+
+.topbar_container li:hover
+{
+	background-color:orange;
+} 
+
+.topbar_container{
+    background-color:darkturquoise;
+	
+}
+
+.company_name {
+	text-align: center;
+	color:maroon;
+	
+}
+
+body{
+	background-color: black;
+}
+.container{
+	display:flex;
+	gap:10px;
+}
+.joe{
+	display:flex;
+	gap:10px;
+}
+#you{
+	display:flex;
+	gap:10px;
+}
+#me{
+	display:flex;
+	gap:10px;
+}
+.footer1{
+	display:flex;
+	background-color: aqua;
+	color:#111;
+	padding:50px;
+}
+.footer_column{
+	text-align: center;
+	padding: 20px;
+	flex:1;
+}
+
+.footer2
+{
+	background-color: darkgrey;
+	padding: 10px;
+}
+.icons {
+	text-align: right;
+	margin: 8px;	
+}
+.icons :hover{
+	color:green;
+}
+.bigger{
+	font-size: 25px;
+	margin:10px;
+}
+.bigger1{
+	font-size: 25px;
+	margin:10px;
+	color: red;
+}
+.bigger2{
+	font-size: 25px;
+	margin:10px;
+	color: red;
+}
+.bigger3{
+	font-size: 25px;
+	margin:10px;
+	color:blue;
+}
+.bigger4{
+	font-size: 25px;
+	margin:10px;
+	color: blue;
+}
+.button1{
+	border-radius: 30px;
+	background-color:royalblue;	
+}
+.button2{
+	border-radius: 30px;
+	background-color:royalblue;
+}
+.button3{
+	border-radius: 30px;
+	background-color:royalblue;
+}
+.button4{
+	border-radius: 30px;
+	background-color:royalblue;
+}
